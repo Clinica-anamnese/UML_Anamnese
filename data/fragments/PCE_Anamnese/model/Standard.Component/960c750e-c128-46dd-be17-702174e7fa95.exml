@@ -1,0 +1,23 @@
+<?xml version="1.0" ?>
+<!--GENERATED FILE, PLEASE DO NOT EDIT!!!--><EXT object="Banco de Dados Pacientes" version="4">
+  <OBJECT>
+    <ID name="Banco de Dados Pacientes" mc="Standard.Component" uid="960c750e-c128-46dd-be17-702174e7fa95"/>
+    <PID name="pce_anamnese" mc="Standard.Package" uid="be981113-1f9a-47fd-b21f-916b7dbbe520"/>
+    <ATTRIBUTES>
+      <ATT name="IsActive">false</ATT>
+      <ATT name="IsMain">false</ATT>
+      <ATT name="IsElementary">false</ATT>
+      <ATT name="IsAbstract">false</ATT>
+      <ATT name="IsLeaf">false</ATT>
+      <ATT name="IsRoot">false</ATT>
+      <ATT name="Visibility">Public</ATT>
+      <ATT name="Name"><![CDATA[Banco de Dados Pacientes]]></ATT>
+      <ATT name="status">1970354901745664</ATT>
+    </ATTRIBUTES>
+    <DEPENDENCIES>
+      <COMP relation="OwnedElement">
+        <COMPID name="Informação Pacientes" mc="Standard.Interface" uid="272051c5-3fd6-4b08-a7bf-a0180cbaa867"/>
+      </COMP>
+    </DEPENDENCIES>
+  </OBJECT>
+</EXT>

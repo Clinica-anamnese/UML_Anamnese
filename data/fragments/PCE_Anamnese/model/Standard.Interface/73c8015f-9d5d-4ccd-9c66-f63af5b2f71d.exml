@@ -1,0 +1,17 @@
+<?xml version="1.0" ?>
+<!--GENERATED FILE, PLEASE DO NOT EDIT!!!--><EXT object="Checar Formularios" version="4">
+  <OBJECT>
+    <ID name="Checar Formularios" mc="Standard.Interface" uid="73c8015f-9d5d-4ccd-9c66-f63af5b2f71d"/>
+    <PID name="Formulários" mc="Standard.Component" uid="7b592442-42bc-48d3-a706-fee530196b83"/>
+    <ATTRIBUTES>
+      <ATT name="IsElementary">false</ATT>
+      <ATT name="IsAbstract">true</ATT>
+      <ATT name="IsLeaf">false</ATT>
+      <ATT name="IsRoot">false</ATT>
+      <ATT name="Visibility">Public</ATT>
+      <ATT name="Name"><![CDATA[Checar Formularios]]></ATT>
+      <ATT name="status">1970354901745664</ATT>
+    </ATTRIBUTES>
+    <DEPENDENCIES></DEPENDENCIES>
+  </OBJECT>
+</EXT>

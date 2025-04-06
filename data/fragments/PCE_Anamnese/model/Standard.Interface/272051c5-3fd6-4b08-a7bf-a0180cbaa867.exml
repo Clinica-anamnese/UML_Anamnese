@@ -1,0 +1,17 @@
+<?xml version="1.0" ?>
+<!--GENERATED FILE, PLEASE DO NOT EDIT!!!--><EXT object="Informação Pacientes" version="4">
+  <OBJECT>
+    <ID name="Informação Pacientes" mc="Standard.Interface" uid="272051c5-3fd6-4b08-a7bf-a0180cbaa867"/>
+    <PID name="Banco de Dados Pacientes" mc="Standard.Component" uid="960c750e-c128-46dd-be17-702174e7fa95"/>
+    <ATTRIBUTES>
+      <ATT name="IsElementary">false</ATT>
+      <ATT name="IsAbstract">true</ATT>
+      <ATT name="IsLeaf">false</ATT>
+      <ATT name="IsRoot">false</ATT>
+      <ATT name="Visibility">Public</ATT>
+      <ATT name="Name"><![CDATA[Informação Pacientes]]></ATT>
+      <ATT name="status">1970354901745664</ATT>
+    </ATTRIBUTES>
+    <DEPENDENCIES></DEPENDENCIES>
+  </OBJECT>
+</EXT>

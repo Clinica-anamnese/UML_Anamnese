@@ -1,0 +1,17 @@
+<?xml version="1.0" ?>
+<!--GENERATED FILE, PLEASE DO NOT EDIT!!!--><EXT object="Adicionar usuarios ao sistema" version="4">
+  <OBJECT>
+    <ID name="Adicionar usuarios ao sistema" mc="Standard.Interface" uid="6443521a-44dc-4ae9-b08a-abba23181073"/>
+    <PID name="Gerenciar Usuários" mc="Standard.Component" uid="52329e74-3dca-40a0-b74c-e47245ca2012"/>
+    <ATTRIBUTES>
+      <ATT name="IsElementary">false</ATT>
+      <ATT name="IsAbstract">true</ATT>
+      <ATT name="IsLeaf">false</ATT>
+      <ATT name="IsRoot">false</ATT>
+      <ATT name="Visibility">Public</ATT>
+      <ATT name="Name"><![CDATA[Adicionar usuarios ao sistema]]></ATT>
+      <ATT name="status">1970354901745664</ATT>
+    </ATTRIBUTES>
+    <DEPENDENCIES></DEPENDENCIES>
+  </OBJECT>
+</EXT>

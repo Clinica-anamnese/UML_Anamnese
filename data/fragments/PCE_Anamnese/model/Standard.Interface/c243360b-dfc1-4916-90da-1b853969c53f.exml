@@ -1,0 +1,17 @@
+<?xml version="1.0" ?>
+<!--GENERATED FILE, PLEASE DO NOT EDIT!!!--><EXT object="Informação Usuários" version="4">
+  <OBJECT>
+    <ID name="Informação Usuários" mc="Standard.Interface" uid="c243360b-dfc1-4916-90da-1b853969c53f"/>
+    <PID name="Banco de dados Usuarios" mc="Standard.Component" uid="996dd825-7414-484d-aef3-b0dfa57a302b"/>
+    <ATTRIBUTES>
+      <ATT name="IsElementary">false</ATT>
+      <ATT name="IsAbstract">true</ATT>
+      <ATT name="IsLeaf">false</ATT>
+      <ATT name="IsRoot">false</ATT>
+      <ATT name="Visibility">Public</ATT>
+      <ATT name="Name"><![CDATA[Informação Usuários]]></ATT>
+      <ATT name="status">1970354901745664</ATT>
+    </ATTRIBUTES>
+    <DEPENDENCIES></DEPENDENCIES>
+  </OBJECT>
+</EXT>

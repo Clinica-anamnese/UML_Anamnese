@@ -1,0 +1,17 @@
+<?xml version="1.0" ?>
+<!--GENERATED FILE, PLEASE DO NOT EDIT!!!--><EXT object="Gerenciar Usuarios" version="4">
+  <OBJECT>
+    <ID name="Gerenciar Usuarios" mc="Standard.Interface" uid="671da222-e9f9-4b1d-adce-a9251ab9ae24"/>
+    <PID name="Gerenciar Usuários" mc="Standard.Component" uid="52329e74-3dca-40a0-b74c-e47245ca2012"/>
+    <ATTRIBUTES>
+      <ATT name="IsElementary">false</ATT>
+      <ATT name="IsAbstract">true</ATT>
+      <ATT name="IsLeaf">false</ATT>
+      <ATT name="IsRoot">false</ATT>
+      <ATT name="Visibility">Public</ATT>
+      <ATT name="Name"><![CDATA[Gerenciar Usuarios]]></ATT>
+      <ATT name="status">1970354901745664</ATT>
+    </ATTRIBUTES>
+    <DEPENDENCIES></DEPENDENCIES>
+  </OBJECT>
+</EXT>

@@ -1,0 +1,80 @@
+<?xml version="1.0" ?>
+<!--GENERATED FILE, PLEASE DO NOT EDIT!!!--><EXT object="pce_anamnese" version="4">
+  <OBJECT>
+    <ID name="pce_anamnese" mc="Standard.Package" uid="be981113-1f9a-47fd-b21f-916b7dbbe520"/>
+    <PID name="PCE_Anamnese" mc="Standard.Project" uid="8a365a8e-b909-4aa5-b848-af59770b7314"/>
+    <ATTRIBUTES>
+      <ATT name="IsInstantiable">false</ATT>
+      <ATT name="IsAbstract">false</ATT>
+      <ATT name="IsLeaf">false</ATT>
+      <ATT name="IsRoot">false</ATT>
+      <ATT name="Visibility">Public</ATT>
+      <ATT name="Name"><![CDATA[pce_anamnese]]></ATT>
+      <ATT name="status">1970354901745664</ATT>
+    </ATTRIBUTES>
+    <DEPENDENCIES>
+      <COMP relation="OwnedElement">
+        <COMPID name="Administrador" mc="Standard.Actor" uid="e5043fa8-f1ef-410f-83fd-da8206e03d2b"/>
+        <COMPID name="Médico (Aluno)" mc="Standard.Actor" uid="36812a5b-2f7a-474c-8807-ae6b2bbd9d86"/>
+        <COMPID name="Cadastrar paciente" mc="Standard.UseCase" uid="013b6e02-0c4b-4767-ae1c-0589096fa679"/>
+        <COMPID name="Editar dados do paciente" mc="Standard.UseCase" uid="fb08c2ba-f15e-4e33-b4cb-1499dbeef0ef"/>
+        <COMPID name="Preencher formulário de primeira" mc="Standard.UseCase" uid="7395d225-bfec-4a6e-ab69-8e08d60de405"/>
+        <COMPID name="Preencher formulário de retorno" mc="Standard.UseCase" uid="d5c96569-87b4-4e8c-b1f9-040a853be065"/>
+        <COMPID name="Consultar histórico de pacientes" mc="Standard.UseCase" uid="4e2dc313-27db-4b11-a5dd-15dfa708e78d"/>
+        <COMPID name="Gerenciar Médicos" mc="Standard.UseCase" uid="f1b1710a-df2e-4011-87fe-79c701a91ce5"/>
+        <COMPID name="Gerenciar usuários" mc="Standard.UseCase" uid="6f5d1ac5-3745-4f6e-8438-69527cda5951"/>
+        <COMPID name="Visualizar lista de pacientes" mc="Standard.UseCase" uid="66aaee28-18b6-462c-8b0c-39463bfcf64b"/>
+        <COMPID name="Visualizar detalhes de pacientes" mc="Standard.UseCase" uid="a0cb18ad-e6d5-4d82-8f8d-208632e5ca1d"/>
+        <COMPID name="Pesquisar pacientes" mc="Standard.UseCase" uid="f34a3cdd-38f8-4ee8-ba71-0232c17c5fd1"/>
+        <COMPID name="Paciente" mc="Standard.Class" uid="97136973-e7ed-47a2-92cb-ff448493ad36"/>
+        <COMPID name="Usuario" mc="Standard.Class" uid="10e24f02-fa74-4310-b189-032792c7ee52"/>
+        <COMPID name="Retorno" mc="Standard.Class" uid="81fbcc5f-05c8-4c20-84e8-2db38dac96c8"/>
+        <COMPID name="RetornoController" mc="Standard.Class" uid="b0463f7a-7104-417e-a093-4ca791a8f595"/>
+        <COMPID name="RetornoRepository" mc="Standard.Interface" uid="01e8b118-09e7-40c3-964c-6e82c378a330"/>
+        <COMPID name="RetornoService" mc="Standard.Class" uid="ded7256c-95f5-4f41-a146-1061836d25b0"/>
+        <COMPID name="JpaRepository" mc="Standard.Interface" uid="689172e3-95df-488d-9e0e-59094838b510"/>
+        <COMPID name="PacienteRepository" mc="Standard.Interface" uid="33ca5600-b837-4c32-8ab2-4e419016db16"/>
+        <COMPID name="PacienteService" mc="Standard.Class" uid="9493d3a0-7d46-4366-85c0-6bc3b7e67918"/>
+        <COMPID name="PacienteController" mc="Standard.Class" uid="fedb256c-6f64-4042-82e0-c1db575fe01a"/>
+        <COMPID name="Anamnese" mc="Standard.Class" uid="772d7eef-8a12-44d9-9256-d21d15a195ad"/>
+        <COMPID name="AnamneseService" mc="Standard.Class" uid="7edc3de9-915a-42f4-96ee-7d1d73f2b692"/>
+        <COMPID name="AnamneseRepository" mc="Standard.Interface" uid="76024009-8f62-4854-b784-ac6dbfe222fb"/>
+        <COMPID name="AnamneseController" mc="Standard.Class" uid="04cc9259-e035-4239-8cb1-0d6fa29e02ab"/>
+        <COMPID name="JpaRepository" mc="Standard.Interface" uid="a61addef-6630-4ae5-802a-e6b58ec44b84"/>
+        <COMPID name="UsuarioRepository" mc="Standard.Interface" uid="cee53aed-6919-4c7f-b8e6-394be129f24f"/>
+        <COMPID name="UsuarioService" mc="Standard.Class" uid="5e6f7ef5-41c2-44d7-8305-7190a839d4c1"/>
+        <COMPID name="UsuarioController" mc="Standard.Class" uid="7c70ce23-eb90-4276-8c32-b82cf596fb93"/>
+        <COMPID name="Container" mc="Standard.Node" uid="f9d81fda-1cc3-47e6-aa96-eb2f89b4c509"/>
+        <COMPID name="Banco de Dados" mc="Standard.Node" uid="5fc93206-1ec0-45ba-a244-988e52de49ad"/>
+        <COMPID name="Arquivos FrontEnd" mc="Standard.Node" uid="54a0d09a-bc10-4f86-8ba7-8e298e428b47"/>
+        <COMPID name="Servidor" mc="Standard.Node" uid="fb46eebb-dc06-4ae4-9604-9e31f7e802ee"/>
+        <COMPID name="login" mc="Standard.Component" uid="12501a93-6ec8-4e35-bb7e-a58daf311657"/>
+        <COMPID name="autenticacao" mc="Standard.Component" uid="1e001e18-f9db-47ec-9e8e-d0154d304f4d"/>
+        <COMPID name="Banco de dados pacientes" mc="Standard.Component" uid="c6b731c4-c56f-4643-b6d1-edd838f6ecbc"/>
+        <COMPID name="HTML" mc="Standard.Component" uid="863fd064-99cb-46b0-bfc4-be93114d00df"/>
+        <COMPID name="CSS" mc="Standard.Component" uid="f6fdef32-7b6f-4c30-bfaf-8ad101157b5e"/>
+        <COMPID name="JavaScript" mc="Standard.Component" uid="0b58194c-a907-4354-b596-bcb362facc92"/>
+        <COMPID name="Arquivos BackEnd" mc="Standard.Node" uid="e9ae351e-5985-4d8d-ab56-9a47258cbf66"/>
+        <COMPID name="Java" mc="Standard.Component" uid="b4b9f1cf-509e-459a-83a6-6d3e74b1f3bc"/>
+        <COMPID name="Framework Spring Boot" mc="Standard.Component" uid="728107dc-bef6-4027-adec-052066c7a412"/>
+        <COMPID name="docker" mc="Standard.Component" uid="11c9a044-71f0-40f8-9023-9c169e6270b9"/>
+        <COMPID name="Cliente" mc="Standard.Node" uid="45668804-7cde-47ed-b10d-c081051dfa78"/>
+        <COMPID name="login" mc="Standard.Component" uid="63fbe970-02b9-4f65-8c65-7671b3e46160"/>
+        <COMPID name="Pacientes" mc="Standard.Component" uid="f97b85ff-44de-4937-a074-79481ea485ae"/>
+        <COMPID name="Formulários" mc="Standard.Component" uid="7b592442-42bc-48d3-a706-fee530196b83"/>
+        <COMPID name="Gerenciar Usuários" mc="Standard.Component" uid="52329e74-3dca-40a0-b74c-e47245ca2012"/>
+        <COMPID name="Admin" mc="Standard.Component" uid="bf9f51e9-be95-4cfa-8c1a-961b9654db4a"/>
+        <COMPID name="Banco de Dados Pacientes" mc="Standard.Component" uid="960c750e-c128-46dd-be17-702174e7fa95"/>
+        <COMPID name="Banco de Dados Formulários" mc="Standard.Component" uid="d52f9337-939f-40ab-989a-710a5ab630a2"/>
+        <COMPID name="Banco de dados Usuarios" mc="Standard.Component" uid="996dd825-7414-484d-aef3-b0dfa57a302b"/>
+        <COMPID name="Filtro de pacientes" mc="Standard.UseCase" uid="14dad555-2b25-468e-a8d6-0b335c5d36ce"/>
+      </COMP>
+      <COMP relation="Product">
+        <COMPID name="CasoDeUso" mc="Standard.UseCaseDiagram" uid="6b1c038b-2258-4b02-93e6-3dd4f0d834f3"/>
+        <COMPID name="DiagramaClasses" mc="Standard.ClassDiagram" uid="177eb64f-49be-4c02-ae29-d549a42eab1b"/>
+        <COMPID name="DiagramaImplantacao" mc="Standard.DeploymentDiagram" uid="5c56eadb-87f5-4e83-a955-47c301d3dab4"/>
+        <COMPID name="DiagramaComponentes" mc="Standard.ClassDiagram" uid="84e3ff98-fac9-407b-bed5-31c9d3f67ef1"/>
+      </COMP>
+    </DEPENDENCIES>
+  </OBJECT>
+</EXT>

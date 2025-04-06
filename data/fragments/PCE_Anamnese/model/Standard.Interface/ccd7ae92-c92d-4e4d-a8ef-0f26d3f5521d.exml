@@ -1,0 +1,17 @@
+<?xml version="1.0" ?>
+<!--GENERATED FILE, PLEASE DO NOT EDIT!!!--><EXT object="Informação Formulários" version="4">
+  <OBJECT>
+    <ID name="Informação Formulários" mc="Standard.Interface" uid="ccd7ae92-c92d-4e4d-a8ef-0f26d3f5521d"/>
+    <PID name="Banco de Dados Formulários" mc="Standard.Component" uid="d52f9337-939f-40ab-989a-710a5ab630a2"/>
+    <ATTRIBUTES>
+      <ATT name="IsElementary">false</ATT>
+      <ATT name="IsAbstract">true</ATT>
+      <ATT name="IsLeaf">false</ATT>
+      <ATT name="IsRoot">false</ATT>
+      <ATT name="Visibility">Public</ATT>
+      <ATT name="Name"><![CDATA[Informação Formulários]]></ATT>
+      <ATT name="status">1970354901745664</ATT>
+    </ATTRIBUTES>
+    <DEPENDENCIES></DEPENDENCIES>
+  </OBJECT>
+</EXT>

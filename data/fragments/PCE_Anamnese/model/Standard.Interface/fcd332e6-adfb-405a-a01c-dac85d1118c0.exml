@@ -1,0 +1,17 @@
+<?xml version="1.0" ?>
+<!--GENERATED FILE, PLEASE DO NOT EDIT!!!--><EXT object="Adicionar e checar pacientes" version="4">
+  <OBJECT>
+    <ID name="Adicionar e checar pacientes" mc="Standard.Interface" uid="fcd332e6-adfb-405a-a01c-dac85d1118c0"/>
+    <PID name="Pacientes" mc="Standard.Component" uid="f97b85ff-44de-4937-a074-79481ea485ae"/>
+    <ATTRIBUTES>
+      <ATT name="IsElementary">false</ATT>
+      <ATT name="IsAbstract">true</ATT>
+      <ATT name="IsLeaf">false</ATT>
+      <ATT name="IsRoot">false</ATT>
+      <ATT name="Visibility">Public</ATT>
+      <ATT name="Name"><![CDATA[Adicionar e checar pacientes]]></ATT>
+      <ATT name="status">1970354901745664</ATT>
+    </ATTRIBUTES>
+    <DEPENDENCIES></DEPENDENCIES>
+  </OBJECT>
+</EXT>

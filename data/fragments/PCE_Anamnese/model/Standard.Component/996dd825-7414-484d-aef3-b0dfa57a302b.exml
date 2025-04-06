@@ -1,0 +1,23 @@
+<?xml version="1.0" ?>
+<!--GENERATED FILE, PLEASE DO NOT EDIT!!!--><EXT object="Banco de dados Usuarios" version="4">
+  <OBJECT>
+    <ID name="Banco de dados Usuarios" mc="Standard.Component" uid="996dd825-7414-484d-aef3-b0dfa57a302b"/>
+    <PID name="pce_anamnese" mc="Standard.Package" uid="be981113-1f9a-47fd-b21f-916b7dbbe520"/>
+    <ATTRIBUTES>
+      <ATT name="IsActive">false</ATT>
+      <ATT name="IsMain">false</ATT>
+      <ATT name="IsElementary">false</ATT>
+      <ATT name="IsAbstract">false</ATT>
+      <ATT name="IsLeaf">false</ATT>
+      <ATT name="IsRoot">false</ATT>
+      <ATT name="Visibility">Public</ATT>
+      <ATT name="Name"><![CDATA[Banco de dados Usuarios]]></ATT>
+      <ATT name="status">1970354901745664</ATT>
+    </ATTRIBUTES>
+    <DEPENDENCIES>
+      <COMP relation="OwnedElement">
+        <COMPID name="Informação Usuários" mc="Standard.Interface" uid="c243360b-dfc1-4916-90da-1b853969c53f"/>
+      </COMP>
+    </DEPENDENCIES>
+  </OBJECT>
+</EXT>

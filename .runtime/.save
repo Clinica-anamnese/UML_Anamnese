@@ -1,0 +1,5 @@
+#Sun Apr 06 00:04:08 BRT 2025
+org.modelio.app.diagram.editor.OpenedDiagrams0='CasoDeUso' {6b1c038b-2258-4b02-93e6-3dd4f0d834f3} Standard.UseCaseDiagram
+org.modelio.app.diagram.editor.OpenedDiagrams3='DiagramaComponentes' {84e3ff98-fac9-407b-bed5-31c9d3f67ef1} Standard.ClassDiagram
+org.modelio.app.diagram.editor.OpenedDiagrams1='DiagramaClasses' {177eb64f-49be-4c02-ae29-d549a42eab1b} Standard.ClassDiagram
+org.modelio.app.diagram.editor.OpenedDiagrams2='DiagramaImplantacao' {5c56eadb-87f5-4e83-a955-47c301d3dab4} Standard.DeploymentDiagram
